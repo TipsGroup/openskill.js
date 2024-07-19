@@ -1,5 +1,5 @@
 {
-  "name": "openskill",
+  "name": "@tipspace/openskill",
   "version": "3.1.0",
   "description": "Weng-Lin Bayesian approximation method for online skill-ranking.",
   "scripts": {
